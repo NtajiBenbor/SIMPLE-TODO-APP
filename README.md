@@ -14,51 +14,45 @@
 This project is a simple todo app that is based entirely in the browser javaScript console. The app allows the user to add task, list out the current tasks and to delete tasks when the user is done. the app also suppoer a funtinality that allows thw user to exit the app at any point.
 
 ***
-check it out [here](https://owlvector.netlify.app/)
+<!-- check it out [here](https://owlvector.netlify.app/) -->
 ***
 
 ## 2. Screenshots :camera:
 ### Screenshot 1
-![Hero section](/imgs/screenshot-owlvector.netlify.app-1.png)
-*A screenshot of the Nav and Hero section*
+![Instructions](/img/TODO%20APP.png)
+
 
 
 ### Screenshot 2
-![Product Cards](/imgs/screenshot-owlvector.netlify.app-3.png)
-*a screenshot of the mid-section*
+![Console output](img/TODO%20and%20CONSOLE.png)
 
-### Screenshot 3
-![On mobile](/imgs/mobile-1.png)
 
-*a screenshot on a mobile device*
 
 ## 3. Why I built this :hammer:
-I undertook this project as a personal challenge to assess my grasp of the Bootstrap CSS framework learned from Colt Steele's Udemy course. It was a venture I wanted to tackle independently, devoid of any guidance, where problem-solving was entirely on my shoulders. Admittedly, I hit some roadblocks, but I persisted, overcoming challenges and successfully bringing the project to fruition.
+This was a part of the web development course I'm currently in—a code-along project. I gave it a shot on my own initially, got some bits working. Later, I checked out the tutor's code-along video, built it with them, and then took another swing at it solo..
 
 
 ## 4. what I learned building this project.
-- The use of CSS frameworks like this significantly streamlines the process of writing custom CSS, saving considerable time and effort.
+- I picked up skills on assembling different JavaScript code elements to construct an app. Here's a breakdown:
 
-- **Utilizing Bootstrap's component classes:** I became quite adept at employing Bootstrap's component class system to effortlessly translate intricate designs.
+- Employing variables to store user input via the prompt method.
 
-- **Mastering Bootstrap's Grid system:** Discovering a tool that effortlessly enables users to address responsiveness through its column and row classes forming the grid system was a revelation. This allowed me to craft a website that appeared appealing on various screen sizes.
+- Mastering the creation of game loops using the while loop, where the code within it persists until the expressions evaluate to false, allowing the program to run until you decide to quit.
 
-- **Creating seamless, responsive navbars:** Crafting navigation bars with CSS has never been this straightforward. I successfully designed an aesthetically pleasing, responsive navbar using just a few classes.
+- Utilizing conditionals to design programs with branching logic based on user input.
 
-- **Mastering documentation navigation:** A valuable lesson Bootstrap imparts, particularly for novice web developers, is the cultivation of a culture of diligently reading through documentation. Over time, it teaches you how to effectively reference the documentation to locate the information you need.
+- Applying for loops to display array content based on user input.
 
-- **Efficiency with Utility classes:** Utility classes prove to be time-saving superheroes, enabling us to make minor adjustments to our elements without resorting to verbose and sometimes unnecessary CSS code.
+- Updating an array with user input, such as adding new items to the end using the push method.
 
+- Deleting items from the array based on user input, accomplished through the splice method.
 
 ## 5. Tools and resources utilized :wrench:
 The following tools and resources where utilized in building this project.
 - HTML5
 - CSS3
-- Bootstrap v4.6 [getbootstrap.com](https://getbootstrap.com/docs/4.6/getting-started/introduction/):link:
-- Illustrations from [storyset.com](https://storyset.com/) :link:
-- Color pallet from [coolors.co](https://coolors.co) :link:
-- Icons from [icons8.con](https://icons8.com/) :link:
-- Resources from [freecodecamp.org](https://www.freecodecamp.org) :link:
+- Vanila Javascript
+- Resources from [Colt Steele Web Development Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) :link:
 
 ## Author :pen:
 Hi I'm Benedict, I'm learning to become a frontend developer. check out my blog where I'll be sharing my learning experiences, projects, and tips. 
@@ -66,3 +60,6 @@ Hi I'm Benedict, I'm learning to become a frontend developer. check out my blog 
 
 You can also connect with me on twitter
 - [Follow me](https://www.twitter.com/CodewithNtaji) :link: 
+
+You can also connect with me on linkedin
+- [Connect Here](https://www.linkedin.com/in/benedict-ntaji-538328288/) :link: 
