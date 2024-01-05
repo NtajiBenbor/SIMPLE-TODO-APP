@@ -19,7 +19,12 @@ while(userInput !== 'quit' && userInput !== 'q'){
     }
     else if(userInput === 'delete'){
        userInput = parseInt(prompt('what task do you want to delete?'));
-       if (!Number.isNaN(userInput)) {
+       
+       if (userInput > todo.length){
+            
+        console.log('Undefined index');  
+
+       }else if (!Number.isNaN(userInput)) {
         let removed = todo.splice(userInput,1);
         
         console.log(`${removed} Succesfully Deleted!`);
