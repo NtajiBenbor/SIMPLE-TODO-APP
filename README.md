@@ -1,4 +1,4 @@
-# SIMPLE TODO APP: built with javascript
+# SIMPLE TODO APP: built with javaScript
 
 ## Content :link:
 
@@ -11,10 +11,10 @@
 
 
 ## 1. Project Overview :smile:
-This project is a simple todo app that is based entirely in the browser javaScript console. The app allows the user to add task, list out the current tasks and to delete tasks when the user is done. the app also suppoer a funtinality that allows thw user to exit the app at any point.
+This is a straightforward to-do application designed to operate exclusively within the JavaScript console of a web browser. Users can add tasks, view the current task list, and delete tasks upon completion. Additionally, the app features a functionality that enables users to exit the application at any given moment.
 
 ***
-<!-- check it out [here](https://owlvector.netlify.app/) -->
+check it out [here](https://consoletodoapp.netlify.app/)
 ***
 
 ## 2. Screenshots :camera:
@@ -29,7 +29,7 @@ This project is a simple todo app that is based entirely in the browser javaScri
 
 
 ## 3. Why I built this :hammer:
-This was a part of the web development course I'm currently in—a code-along project. I gave it a shot on my own initially, got some bits working. Later, I checked out the tutor's code-along video, built it with them, and then took another swing at it solo..
+This was a part of the web development course I'm currently in—a code-along project. I gave it a shot on my own initially, got some bits working. Later, I checked out the tutor's code-along video, built it with them, and then took another swing at it solo.
 
 
 ## 4. what I learned building this project.
@@ -51,7 +51,7 @@ This was a part of the web development course I'm currently in—a code-along pr
 The following tools and resources where utilized in building this project.
 - HTML5
 - CSS3
-- Vanila Javascript
+- Vanilla JavaScript
 - Resources from [Colt Steele Web Development Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) :link:
 
 ## Author :pen:
@@ -61,5 +61,5 @@ Hi I'm Benedict, I'm learning to become a frontend developer. check out my blog 
 You can also connect with me on twitter
 - [Follow me](https://www.twitter.com/CodewithNtaji) :link: 
 
-You can also connect with me on linkedin
+You can also connect with me on linkedIn
 - [Connect Here](https://www.linkedin.com/in/benedict-ntaji-538328288/) :link: 
